@@ -26,5 +26,8 @@ For interactive visualizations and dashboard creation.
 ### SQL:
 For data extraction,transformation and aggregation.
 ## Workflow
-1 Datacleaning(Excel): 
+1. Datacleaning(Excel): Cleaned the dataset and also exploratory analysis.
+2. Data Transformation (SQL): Used SQL for Data aggregation,filtering,and segmentation.
+3. Visualization(Power BI): Created Dashboards to visualize trends and present insights.
+
 
