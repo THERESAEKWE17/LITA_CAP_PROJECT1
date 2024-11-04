@@ -1,6 +1,15 @@
 # LITA_CAP_PROJECT1
 ## Sales Performance Analysis for a Retail Store
 This project analysis the sales dataset of a retail store using Excel,Power BI,and SQL to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
+## Key features and Columns
+- OrderID: Unique identifier for each transaction.
+- Customer Id: Unique ID for each customer.
+- Product: Items bought by customers.  
+- Region: Geographycal region of the sale.
+- OrderDate: Date of the transaction.
+- Quantity: Quantity of items sold in each transaction
+- UnitPrice: Price for each product.
+
 ## Objectives and Insight-Driven Questions
 - Calculate metrics such as average sales per product and total revenue by region.
 - Retrieve the total sales for each product category.
