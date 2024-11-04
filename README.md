@@ -25,3 +25,6 @@ For data cleaning and exploratory analysis.
 For interactive visualizations and dashboard creation.
 ### SQL:
 For data extraction,transformation and aggregation.
+## Workflow
+1 Datacleaning(Excel): 
+
