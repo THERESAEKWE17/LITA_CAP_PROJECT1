@@ -31,5 +31,9 @@ For data extraction,transformation and aggregation.
 1. Datacleaning(Excel): Cleaned the dataset and also exploratory analysis.
 2. Data Transformation (SQL): Used SQL for Data aggregation,filtering,and segmentation.
 3. Visualization(Power BI): Created Dashboards to visualize trends and present insights.
+## Excel(Pivot Table)
+## SQL Query
+## Power BI
+
 
 
