@@ -46,9 +46,6 @@ For data extraction,transformation and aggregation.
 
 <img width="432" alt="SQLPROJECT1" src="https://github.com/user-attachments/assets/c3dcb15b-10f4-4e70-bc2e-353443a447c7">
 
-
 ## Power BI
 
-
-
-
+<img width="495" alt="POWERBIP1" src="https://github.com/user-attachments/assets/aca357f0-4866-4d58-abdc-2d6b61d312cb">
