@@ -11,7 +11,7 @@ An Excel Dataset file from a retail store.
 - OrderID: Unique identifier for each transaction.
 - Customer Id: Unique ID for each customer.
 - Product: Items bought by customers.  
-- Region: Geographycal region of the sale.
+- Region: Geographical region of the sale.
 - OrderDate: Date of the transaction.
 - Quantity: Quantity of items sold in each transaction
 - UnitPrice: Price for each product.
