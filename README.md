@@ -43,6 +43,10 @@ For data extraction,transformation and aggregation.
 <img width="960" alt="EXCELPROJECT1" src="https://github.com/user-attachments/assets/739c8af8-64bc-46c4-af91-4887ad695f4b">
 
 ## SQL Query
+
+<img width="432" alt="SQLPROJECT1" src="https://github.com/user-attachments/assets/c3dcb15b-10f4-4e70-bc2e-353443a447c7">
+
+
 ## Power BI
 
 
